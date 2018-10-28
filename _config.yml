@@ -1,11 +1,11 @@
 # Site settings
-author: Amil Masic
-title: 
+author: Amil Mašić
+title: 52 Weeks
 header-img: img/home-bg.png
 email: amil.masic@gmail.com
-copyright_name: Amil Masic
+copyright_name: Amil Mašić
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Attending Flatiron School Online Web Developer course.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AmilMasic
